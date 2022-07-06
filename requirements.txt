@@ -2,5 +2,5 @@ jieba==0.39
 numpy==1.16.4
 pandas==0.24.2
 jupyter==1.0.0
-lxml==4.3.3
+lxml==4.9.1
 requests>=2.20.0
